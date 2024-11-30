@@ -1,17 +1,15 @@
 - 👋 Hi, I’m @ZeronOne2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me ZeronOne2@yahoo.com
+- 😄 Pronouns: ZO
+- ⚡ Fun fact: Hiking, bicycle, dance, ...
 <!---
 ZeronOne2/ZeronOne2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-# 기술 스택 종합 문서
+# My Technical Specification
 
 ## 1. 핵심 역량 요약
 
@@ -112,3 +110,5 @@ mindmap
 
 ---
 *이 기술 스택 문서는 현재의 역량과 향후 발전 방향을 포괄적으로 제시하며, 지속적인 업데이트를 통해 최신 기술 트렌드를 반영할 예정입니다.*
+
+
